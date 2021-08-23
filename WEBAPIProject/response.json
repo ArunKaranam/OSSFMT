@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "userName": "superadmin21",
+    "passWord": "superadmin@21",
+    "roleName": "admin"
+  },
+  {
+    "id": 2,
+    "userName": "IndoAmerica123",
+    "passWord": "IndoAmerica123",
+    "roleName": "hospitaladmin"
+  },
+  {
+    "id": 3,
+    "userName": "Tendulkar10",
+    "passWord": "Tendulkar10",
+    "roleName": "doctor"
+  },
+  {
+    "id": 4,
+    "userName": "smriti123",
+    "passWord": "smriti123",
+    "roleName": "patient"
+  },
+  {
+    "id": 5,
+    "userName": "Dhoni123",
+    "passWord": "Dhoni@123",
+    "roleName": "patient"
+  },
+  {
+    "id": 6,
+    "userName": "Dhoni123",
+    "passWord": "Dhoni@123",
+    "roleName": "patient"
+  },
+  {
+    "id": 7,
+    "userName": "Dhoni123",
+    "passWord": "Dhoni@123",
+    "roleName": "patient"
+  },
+  {
+    "id": 8,
+    "userName": "Dhoni123",
+    "passWord": "Dhoni@123",
+    "roleName": "patient"
+  },
+  {
+    "id": 9,
+    "userName": "Dhoni123",
+    "passWord": "Dhoni@123",
+    "roleName": "patient"
+  },
+  {
+    "id": 10,
+    "userName": "Dhoni123",
+    "passWord": "Dhoni@123",
+    "roleName": "patient"
+  }
+]
